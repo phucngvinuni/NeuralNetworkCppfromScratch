@@ -198,3 +198,11 @@ $$
 $$
 
 (ở đây zj là giá trị đầu ra trước Softmax)
+
+###Disclaimer:
+Mình chưa hoàn thiện nó trọn vẹn =(((
+###References:
+https://github.com/SorawitChok/Neural-Network-from-scratch-in-Cpp
+https://stackoverflow.com/questions/2019056/getting-a-simple-neural-network-to-work-from-scratch-in-c
+https://aicodewizards.com/2021/12/12/neural-network-from-scratch-part-5-c-deep-learning-framework-implementation/
+https://github.com/FelipesCoding/neural_network_from_scratch
